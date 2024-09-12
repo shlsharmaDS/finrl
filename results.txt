@@ -1,0 +1,231 @@
+Running for Time Window 90 and Soft Temperature 3000
+  0%|          | 0/16 [00:00<?, ?it/s]=================================
+Initial portfolio value:100000
+Final portfolio value: 190870.015625
+Final accumulative portfolio value: 1.90870015625
+Maximum DrawDown: -0.16346431188387212
+Sharpe ratio: 5.971725579339588
+=================================
+  6%|▋         | 1/16 [23:55<5:58:49, 1435.30s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 190885.125
+Final accumulative portfolio value: 1.90885125
+Maximum DrawDown: -0.16344892042227477
+Sharpe ratio: 5.972519300130994
+=================================
+ 12%|█▎        | 2/16 [46:54<5:27:16, 1402.58s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 191063.65625
+Final accumulative portfolio value: 1.9106365625
+Maximum DrawDown: -0.16326507008062174
+Sharpe ratio: 5.980934548020993
+=================================
+ 19%|█▉        | 3/16 [1:09:50<5:01:15, 1390.39s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 192392.53125
+Final accumulative portfolio value: 1.9239253125
+Maximum DrawDown: -0.16191464495571872
+Sharpe ratio: 6.040793031908077
+=================================
+ 25%|██▌       | 4/16 [1:32:47<4:37:00, 1385.06s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 199602.21875
+Final accumulative portfolio value: 1.9960221875
+Maximum DrawDown: -0.15430141628754868
+Sharpe ratio: 6.352592766307467
+=================================
+ 31%|███▏      | 5/16 [1:55:44<4:13:24, 1382.21s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 231685.4375
+Final accumulative portfolio value: 2.316854375
+Maximum DrawDown: -0.1406162430260589
+Sharpe ratio: 7.694855198431038
+=================================
+ 38%|███▊      | 6/16 [2:18:43<3:50:08, 1380.90s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 323056.9375
+Final accumulative portfolio value: 3.230569375
+Maximum DrawDown: -0.12173803869947519
+Sharpe ratio: 10.321157840670635
+=================================
+ 44%|████▍     | 7/16 [2:41:37<3:26:48, 1378.68s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 487864.1875
+Final accumulative portfolio value: 4.878641875
+Maximum DrawDown: -0.12747798762271512
+Sharpe ratio: 10.749531666286499
+=================================
+ 50%|█████     | 8/16 [3:04:33<3:03:42, 1377.87s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 729857.9375
+Final accumulative portfolio value: 7.298579375
+Maximum DrawDown: -0.13494035863199672
+Sharpe ratio: 10.43316637721329
+=================================
+ 56%|█████▋    | 9/16 [3:27:31<2:40:45, 1377.91s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 913613.75
+Final accumulative portfolio value: 9.1361375
+Maximum DrawDown: -0.13961925069813863
+Sharpe ratio: 9.70919978870801
+=================================
+ 62%|██████▎   | 10/16 [3:50:29<2:17:47, 1377.88s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 968064.9375
+Final accumulative portfolio value: 9.680649375
+Maximum DrawDown: -0.14005489843032126
+Sharpe ratio: 9.516740150967069
+=================================
+ 69%|██████▉   | 11/16 [4:13:27<1:54:50, 1378.08s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 989817.75
+Final accumulative portfolio value: 9.8981775
+Maximum DrawDown: -0.14005015731703296
+Sharpe ratio: 9.472581660366671
+=================================
+ 75%|███████▌  | 12/16 [4:36:39<1:32:09, 1382.28s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 997039.0625
+Final accumulative portfolio value: 9.970390625
+Maximum DrawDown: -0.1400199183962012
+Sharpe ratio: 9.487846786840212
+=================================
+ 81%|████████▏ | 13/16 [4:59:44<1:09:08, 1382.95s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 971633.0
+Final accumulative portfolio value: 9.71633
+Maximum DrawDown: -0.1399318199426668
+Sharpe ratio: 9.33260475380378
+=================================
+ 88%|████████▊ | 14/16 [5:22:44<46:04, 1382.26s/it]  =================================
+Initial portfolio value:100000
+Final portfolio value: 971901.25
+Final accumulative portfolio value: 9.7190125
+Maximum DrawDown: -0.13999426855711972
+Sharpe ratio: 9.304899883527199
+=================================
+ 94%|█████████▍| 15/16 [5:45:46<23:02, 1382.13s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 1004356.875
+Final accumulative portfolio value: 10.04356875
+Maximum DrawDown: -0.14001112667972349
+Sharpe ratio: 9.408821957173041
+=================================
+100%|██████████| 16/16 [6:08:47<00:00, 1382.95s/it]
+
+Running for Time Window 90 and Soft Temperature 4000
+  0%|          | 0/16 [00:00<?, ?it/s]=================================
+Initial portfolio value:100000
+Final portfolio value: 190870.28125
+Final accumulative portfolio value: 1.9087028125
+Maximum DrawDown: -0.16346613993112624
+Sharpe ratio: 5.9717187770804365
+=================================
+  6%|▋         | 1/16 [23:16<5:49:05, 1396.36s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 190877.921875
+Final accumulative portfolio value: 1.90877921875
+Maximum DrawDown: -0.16346003083716776
+Sharpe ratio: 5.972042466583487
+=================================
+ 12%|█▎        | 2/16 [46:32<5:25:50, 1396.47s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 190962.875
+Final accumulative portfolio value: 1.90962875
+Maximum DrawDown: -0.16339673631172202
+Sharpe ratio: 5.97547996701981
+=================================
+ 19%|█▉        | 3/16 [1:09:49<5:02:32, 1396.33s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 191799.3125
+Final accumulative portfolio value: 1.917993125
+Maximum DrawDown: -0.162688818426036
+Sharpe ratio: 6.009942221073146
+=================================
+ 25%|██▌       | 4/16 [1:32:55<4:38:27, 1392.28s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 197685.125
+Final accumulative portfolio value: 1.97685125
+Maximum DrawDown: -0.15681184346945498
+Sharpe ratio: 6.254180965014584
+=================================
+ 31%|███▏      | 5/16 [1:56:03<4:14:57, 1390.71s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 229864.984375
+Final accumulative portfolio value: 2.29864984375
+Maximum DrawDown: -0.14196347249411279
+Sharpe ratio: 7.566347885207153
+=================================
+ 38%|███▊      | 6/16 [2:19:15<3:51:53, 1391.34s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 351102.8125
+Final accumulative portfolio value: 3.511028125
+Maximum DrawDown: -0.11173347598375316
+Sharpe ratio: 10.735341320949246
+=================================
+ 44%|████▍     | 7/16 [3:01:42<4:25:21, 1769.11s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 633911.1875
+Final accumulative portfolio value: 6.339111875
+Maximum DrawDown: -0.116199442196665
+Sharpe ratio: 10.327498833761402
+=================================
+ 50%|█████     | 8/16 [3:24:48<3:39:36, 1647.08s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 880471.6875
+Final accumulative portfolio value: 8.804716875
+Maximum DrawDown: -0.14140904186625258
+Sharpe ratio: 9.510989671113286
+=================================
+ 56%|█████▋    | 9/16 [3:47:56<3:02:42, 1566.01s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 909728.3125
+Final accumulative portfolio value: 9.097283125
+Maximum DrawDown: -0.1403027452903295
+Sharpe ratio: 9.470524978324411
+=================================
+ 62%|██████▎   | 10/16 [4:13:58<2:36:28, 1564.79s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 956278.1875
+Final accumulative portfolio value: 9.562781875
+Maximum DrawDown: -0.13863652979231866
+Sharpe ratio: 9.407466995267054
+=================================
+ 69%|██████▉   | 11/16 [5:14:39<3:03:21, 2200.36s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 964783.0
+Final accumulative portfolio value: 9.64783
+Maximum DrawDown: -0.139530865053628
+Sharpe ratio: 9.35729847605883
+=================================
+ 75%|███████▌  | 12/16 [5:37:55<2:10:22, 1955.70s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 967806.5
+Final accumulative portfolio value: 9.678065
+Maximum DrawDown: -0.1398601749821703
+Sharpe ratio: 9.32642069769834
+=================================
+ 81%|████████▏ | 13/16 [6:01:09<1:29:16, 1785.61s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 979275.6875
+Final accumulative portfolio value: 9.792756875
+Maximum DrawDown: -0.14001300151776663
+Sharpe ratio: 9.330038393018405
+=================================
+ 88%|████████▊ | 14/16 [6:25:18<56:07, 1683.82s/it]  =================================
+Initial portfolio value:100000
+Final portfolio value: 983258.625
+Final accumulative portfolio value: 9.83258625
+Maximum DrawDown: -0.1399836654420451
+Sharpe ratio: 9.36289586624233
+=================================
+ 94%|█████████▍| 15/16 [6:58:38<29:39, 1779.16s/it]=================================
+Initial portfolio value:100000
+Final portfolio value: 930078.0
+Final accumulative portfolio value: 9.30078
+Maximum DrawDown: -0.13521338742062616
+Sharpe ratio: 9.79048220947906
+=================================
+100%|██████████| 16/16 [8:07:56<00:00, 1829.76s/it]
+
+
